@@ -103,19 +103,20 @@ Neste espaço, compartilho meus projetos, aprendizados e soluções que venho de
 
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=Prod01&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-        alt="Estatísticas do GitHub"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prod01&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-        alt="Linguagens mais usadas"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: inline-block; width: 70%; vertical-align: top;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Prod01&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+      alt="Estatísticas do GitHub" 
+      style="width: 100%;" 
+    />
+  </div>
+  
+  <div style="display: inline-block; width: 29%; vertical-align: top; margin-left: 1%;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prod01&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      alt="Linguagens mais usadas" 
+      style="width: 100%;" 
+    />
+  </div>
+</div>
