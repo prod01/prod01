@@ -103,20 +103,20 @@ Neste espaço, compartilho meus projetos, aprendizados e soluções que venho de
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <div style="display: inline-block; width: 70%; vertical-align: top;">
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 7;">
     <img 
+      alt="GitHub Stats" 
       src="https://github-readme-stats.vercel.app/api?username=Prod01&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-      alt="Estatísticas do GitHub" 
-      style="width: 100%;" 
+      style="width: 100%; height: 200px;" 
     />
   </div>
-  
-  <div style="display: inline-block; width: 29%; vertical-align: top; margin-left: 1%;">
+
+  <div style="flex: 3; margin-left: 10px;">
     <img 
+      alt="Top Languages" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prod01&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      alt="Linguagens mais usadas" 
-      style="width: 100%;" 
+      style="width: 100%; height: 200px;" 
     />
   </div>
 </div>
