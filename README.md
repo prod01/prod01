@@ -114,7 +114,7 @@ Neste espaço, compartilho meus projetos, aprendizados e soluções que venho de
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prod01&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
