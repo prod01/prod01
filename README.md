@@ -5,6 +5,7 @@
 Me chamo Pedro Henrique Rodrigues, tenho 23 anos e sou de Minas Gerais. Sou graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário UNA e atualmente estou iniciando minha pós-graduação em Engenharia de Software. Sou apaixonado por tecnologia e tenho experiência em desenvolvimento de sistemas, integração com ERP TOTVS RM e Fluig, além de atuação com bancos de dados Oracle e MySQL.
 Neste espaço, compartilho meus projetos, aprendizados e soluções que venho desenvolvendo ao longo da minha jornada na área de tecnologia. Estou sempre em busca de novos desafios e de contribuir com a comunidade dev!
 
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -100,6 +101,8 @@ Neste espaço, compartilho meus projetos, aprendizados e soluções que venho de
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -115,6 +118,7 @@ Neste espaço, compartilho meus projetos, aprendizados e soluções que venho de
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prod01&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
