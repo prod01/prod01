@@ -96,32 +96,23 @@ Neste espaço, compartilho meus projetos, aprendizados e soluções que venho de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
 />
-<img 
-    align="left" 
-    alt="eclipse" 
-    title="eclipse"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" 
-/>
+
 
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img 
     alt="GitHub Stats" 
     height="200" 
-    style="display: inline-block; margin-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Prod01&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     alt="Top Langs" 
     height="200" 
-    style="display: inline-block;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prod01&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
